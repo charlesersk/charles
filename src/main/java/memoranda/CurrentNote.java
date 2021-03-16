@@ -15,6 +15,7 @@ public class CurrentNote {
     public static void set(Note note, boolean toSaveCurrentNote) {
         noteChanged(note, toSaveCurrentNote);
         currentNote = note;
+//second change //
     }
 
     public static void reset() {
