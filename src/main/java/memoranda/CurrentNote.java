@@ -16,6 +16,7 @@ public class CurrentNote {
         noteChanged(note, toSaveCurrentNote);
         currentNote = note;
 //second change //
+//third change //
     }
 
     public static void reset() {
